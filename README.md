@@ -6,7 +6,13 @@
 
 ### 2. 본인의 비공개 저장소 생성하기
 
+![create_repository](/public/img/create_repository.png)
+
 - 과제 저장소에서 `Use this template` -> `Create a new repository`를 클릭하여 본인 계정 하위에 새 저장소를 만들 수 있습니다.
+
+<p align="center">
+  <img alt="private_repository" height="500" src="public/img/private_repository.png"/>
+</p>
 
 - Owner를 **지원서에 제출한 본인의 GitHub 계정**으로 선택하고 **비공개(Private)** 로 새 저장소를 만듭니다.
 - 저장소 이름은 템플릿 저장소의 이름(과제 이름) 뒤에 본인의 GitHub 사용자 이름을 붙입니다.
@@ -14,6 +20,11 @@
 - **만약 공개 저장소로 생성하여 다른 사람의 코드와 유사한 경우 부정행위로 간주하여 불이익이 있으니 유의해 주세요.**
 
 ### 3. 유어슈 계정을 collaborator로 초대하기
+
+<p align="center">
+<img alt="add_people" width="500" src="public/img/add_people.png"/>
+<img alt="add_collaborator" width="500" src="public/img/add_collaborator.png"/>
+</p>
 
 - 생성한 저장소의 `Settings` -> `Collaborators` -> `Add people` 에서 `yourssu-web-fe` 계정을 collaborator로 초대합니다.
 - 초대를 완료하면 위와 같이 `Pending Invite` 상태인 것을 확인할 수 있습니다. 초대 수락은 과제 제출 기간 중에 일괄로 진행됩니다. 초대 수락을 위해 지원자가 추가로 하셔야 할 일은 없습니다.
